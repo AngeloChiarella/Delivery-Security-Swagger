@@ -1,0 +1,39 @@
+                                                                                                                                    
+   (       )                     (   (     (      
+   )\   ( /( (      )  (      (  )\  )\    )\     
+ (((_)  )\()))\  ( /(  )(    ))\((_)((_)((((_)(   
+ )\___ ((_)\((_) )(_))(()\  /((_)_   _   )\ _ )\  
+((/ __|| |(_)(_)((_)_  ((_)(_)) | | | |  (_)_\(_) 
+ | (__ | ' \ | |/ _` || '_|/ -_)| | | |   / _ \   
+  \___||_||_||_|\__,_||_|  \___||_| |_|  /_/ \_\  
+                                                  
+                                                                                  
+INFO 2208 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : --------------------------
+INFO 2208 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : --------------------------
+INFO 2208 --- [  restartedMain] c.i.restaurante.InnovationApplication    : --------------------------
+INFO 2208 --- [nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : --------------------------
+INFO 2208 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : --------------------------
+INFO 2208 --- [nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] o.apache.catalina.core.StandardService   : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] .SchemaDropperImpl$DelayedDropActionImpl : --------------------------
+WARN 2208 --- [n(10)-127.0.0.1] o.s.b.f.support.DisposableBeanAdapter    : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : --------------------------
+INFO 2208 --- [n(10)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : --------------------------
+
+
+____                                                                              
+`MM'                                                       68b                    
+ MM                                                  /     Y89                    
+ MM ___  __  ___  __     _____  ____    ___   ___   /M     ___   _____  ___  __   
+ MM `MM 6MMb `MM 6MMb   6MMMMMb `MM(    )M' 6MMMMb /MMMMM  `MM  6MMMMMb `MM 6MMb  
+ MM  MMM9 `Mb MMM9 `Mb 6M'   `Mb `Mb    d' 8M'  `Mb MM      MM 6M'   `Mb MMM9 `Mb 
+ MM  MM'   MM MM'   MM MM     MM  YM.  ,P      ,oMM MM      MM MM     MM MM'   MM 
+ MM  MM    MM MM    MM MM     MM   MM  M   ,6MM9'MM MM      MM MM     MM MM    MM 
+ MM  MM    MM MM    MM MM     MM   `Mbd'   MM'   MM MM      MM MM     MM MM    MM 
+ MM  MM    MM MM    MM YM.   ,M9    YMP    MM.  ,MM YM.  ,  MM YM.   ,M9 MM    MM 
+_MM__MM_  _MM_MM_  _MM_ YMMMMM9      M     `YMMM9'Yb.YMMM9 _MM_ YMMMMM9 _MM_  _MM_
+                                                                                  
+                                                
